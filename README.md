@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Igor Brklja.
 - 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Java, Javascript.
+- 🌱 I’m currently learning Java, Java Srping.
 - 📫 How to reach me brkljaigor.mail@gmail.com
 
 <!---
